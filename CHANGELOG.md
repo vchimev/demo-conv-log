@@ -1,3 +1,18 @@
+<a name=""></a>
+#  (2017-12-08)
+
+
+### Bug Fixes
+
+* **TextField:** not secure when keyboardType="number" ([e75500e](https://github.com/vchimev/demo-conv-log/commit/e75500e))
+
+
+### Features
+
+* **profile:** add log function for release build ([7b2c102](https://github.com/vchimev/demo-conv-log/commit/7b2c102))
+
+
+
 Cross Platform Modules Changelog
 ==============================
 ## 3.3.0 (2017, October 25)
